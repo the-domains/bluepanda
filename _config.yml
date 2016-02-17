@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 1
+  brandStrength: 0.353178
+  lightness: 0.7048872
+  rhythmicContrast: 0.3369046
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+typography_spectrum: 0.07706767
+name: BluePanda
